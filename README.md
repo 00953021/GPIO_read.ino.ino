@@ -1,1 +1,1 @@
-# GPIO_read.ino.ino
+# GPIO_read.ino
